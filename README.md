@@ -13,3 +13,4 @@ P.S.
 If this bot is not working now. 
 You can run your own very fast.
 You need to clone this repository and enter your bot token into TOKEN variable.
+It doesn't need root prevelegincies to work.
