@@ -7,7 +7,7 @@ Bot will ping servers every 10 seconds and will send message to you if server ha
 If server is not unavailable, bot will send message about this every hour, then if server will become available again,
 bot will send message to you.
 
-You can find this bot in telegram as @ServerCheckingBo.
+You can find this bot in telegram as @ServerCheckingBot.
 
 P.S.
 If this bot is not working now. 
